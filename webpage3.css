@@ -36,9 +36,15 @@ html,body{
     /* background-color: yellow; */
 
 }
-#page1>nav>img{
-    width: 9%;
+#page1>nav>.logo{
+    width: 8%;
+    border-radius: 60%;
     margin-top: -1vw;
+    font-size: 200%;
+    font-weight: 900;
+    font-style: italic;
+    color: #0a3cca;
+    background-color: rgba(43, 45, 46, 0.525);
 }
 #right-nav>button{
     padding: 10px 20px;
